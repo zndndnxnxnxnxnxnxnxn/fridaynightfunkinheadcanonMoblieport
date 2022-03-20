@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Not too shabby boy."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But can you  handle this?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Go get him boyfriend!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep bop boop!"
+		}
+	]
+}
