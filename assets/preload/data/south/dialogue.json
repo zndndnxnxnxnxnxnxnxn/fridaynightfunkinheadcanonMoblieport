@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "skid",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow! That was cool Boyfriend!^^"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pump",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Indeed. ^^"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, that was amazing hun! ^^"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep dap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cMind singing to them again?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bo bap skee bap!! "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "skid",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yay!!^^"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Pump",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's drop the beat!! ^^"
+		}
+	]
+}
