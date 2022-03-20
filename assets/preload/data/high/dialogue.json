@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WOOHOO!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WAY TO GO BF!!! ^^"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep dap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok. I see..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I will admit, he did pretty good."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's see how you do on this one!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "skee bip bap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(ok, I think Boyfriend and I can settle in at Trake's house. She wouldn't mind that)"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(I hope/...)"
+		}
+	]
+}
