@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HEY!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "hm?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You think you can just sing with my daughter like that?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bep skee beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If you want to date her..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're going to have to go through ME first!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bo bop!"
+		}
+	]
+}
