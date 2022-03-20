@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "b-bo.....beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "S-say....where is Skid and Pump...?"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": ".      .      .      .      .      ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "B-Boyfriend what are you-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lemon",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why Hello there little children..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "EEK!!! A LITERAL MONSTER!!!!"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "beeeeeeeeep!!!!"
+		}
+	]
+}
